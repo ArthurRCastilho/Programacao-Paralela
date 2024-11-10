@@ -13,24 +13,29 @@ e) Construa uma tabela comparativa com os resultados obtidos para os três algor
 
 f) Interprete os dados apresentados na tabela e analise as diferenças de desempenho entre os algoritmos, discutindo como o tempo, o trabalho e o número de passos variam conforme o tamanho do array e as características de cada algoritmo.
 
-## Fluxogramas
+## Alunos
+[Arthur Rodrigues Castilho](https://github.com/ArthurRCastilho)<br>
+[João Victor Rocha Vilela Godoi](https://github.com/Joao-Victor-RVG)<br>
+[Pedro Naves Cavalcanti](https://github.com/PedroNaves00)<br>
+
+### Fluxogramas
 ![Reduce Serial](image.png) <br>
 ![Reduce Exclusive](image-1.png) <br>
 ![Reduce inclusive](image-2.png) <br>
 ![Hillis](image-3.png) <br>
 ![Blelloch](image-4.png) <br>
 
-## Implementação dos Algoritmos
+### Implementação dos Algoritmos
 
 [Reduce Serial](https://github.com/ArthurRCastilho/Programacao-Paralela/blob/main/atividades/Implementa%C3%A7%C3%A3o%20Reduce%2C%20Hills%20e%20Blelloch/letra_b.ipynb) <br>
 [Hillis-Steele](https://github.com/ArthurRCastilho/Programacao-Paralela/blob/main/atividades/Implementa%C3%A7%C3%A3o%20Reduce%2C%20Hills%20e%20Blelloch/letra_c.ipynb) <br>
 [Blelloch](https://github.com/ArthurRCastilho/Programacao-Paralela/blob/main/atividades/Implementa%C3%A7%C3%A3o%20Reduce%2C%20Hills%20e%20Blelloch/letra_d.ipynb) <br>
 
-## Tabela Comparativa
+### Tabela Comparativa
 
 ![Tabela Comparativa](image-5.png)
 
-## Discusão sobre a Atividade
+### Discusão sobre a Atividade
 
 1. Reduce Serial
 - Descrição: O algoritmo Reduce Serial realiza a soma sequencial dos elementos do array. Ele é o mais simples dos três, pois não possui paralelismo e realiza a operação em uma única etapa (Etapas = 1 para todos os tamanhos de array).
