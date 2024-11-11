@@ -28,7 +28,8 @@ Ao fim de todas as iterações, a lista está ordenada.
 
 ### Implementação dos Algoritmos
 
-[radix_sort.ipynb](https://github.com/ArthurRCastilho/Programacao-Paralela/blob/main/atividades/Implementa%C3%A7%C3%A3o%20Reduce%2C%20Hills%20e%20Blelloch/letra_b.ipynb) <br>
+[radix_sort_serial.ipynb](https://github.com/ArthurRCastilho/Programacao-Paralela/blob/main/atividades/Implementa%C3%A7%C3%A3o%20Radix%20Sort/radix_sort_serial.ipynb) <br>
+[radix_sort_paralizado.ipynb](https://github.com/ArthurRCastilho/Programacao-Paralela/blob/main/atividades/Implementa%C3%A7%C3%A3o%20Radix%20Sort/radix_sort_paralizada.ipynb) <br>
 
 ### Tabela Comparativa
 
