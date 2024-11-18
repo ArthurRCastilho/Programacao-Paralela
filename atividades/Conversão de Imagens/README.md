@@ -26,4 +26,4 @@ Desvantagem: Pode gerar overhead de comunicação ao combinar blocos em imagens 
 Levando em consideração as imagens 500x500(todas)<br>
 
 A atividade feita em serial gastou um tempo de 127.75 segundos<br>
-Já a atividade feita em paralelo gastou um total de 17.14 segundos<br>
+Já a atividade feita em paralelo gastou um total de 90.14 segundos<br>
