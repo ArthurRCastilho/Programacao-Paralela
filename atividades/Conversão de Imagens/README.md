@@ -4,6 +4,7 @@ Situação Problema elabore uma solução computacional, serial e paralela, que 
 ## Alunos
 [Arthur Rodrigues Castilho](https://github.com/ArthurRCastilho)<br>
 [Cauã Cristian Inocêncio](https://github.com/CauaCristian)<br>
+[Gabriel Cândido Ferreira](https://github.com/Gabriel-Candido-Ferreira)<br>
 
 ### Implementação dos Algoritmos
 
