@@ -7,9 +7,9 @@ Situação Problema elabore uma solução computacional, serial e paralela, que 
 
 ### Implementação dos Algoritmos
 
-[conversao_image_serial.py](https://github.com/ArthurRCastilho/Programacao-Paralela/blob/main/atividades/) <br>
-[conversao_imagem_paralela.ipynb](https://github.com/ArthurRCastilho/Programacao-Paralela/blob/main/atividades/) <br>
-[gerador_imgs_aleato.py](https://github.com/ArthurRCastilho/Programacao-Paralela/blob/main/atividades/) <br>
+[conversao_image_serial.py](https://github.com/ArthurRCastilho/Programacao-Paralela/blob/main/atividades/Convers%C3%A3o%20de%20Imagens/serial/conversao_image_serial.py) <br>
+[conversao_imagem_paralela.ipynb](https://github.com/ArthurRCastilho/Programacao-Paralela/blob/main/atividades/Convers%C3%A3o%20de%20Imagens/paralela/conversao_img_paralela.ipynb) <br>
+[gerador_imgs_aleato.py](https://github.com/ArthurRCastilho/Programacao-Paralela/blob/main/atividades/Convers%C3%A3o%20de%20Imagens/gerador_imgs_aleato.py) <br>
 
 ### Descrição
 Levando em consideração as imagens 500x500(todas)<br>
