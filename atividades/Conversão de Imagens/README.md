@@ -11,6 +11,17 @@ Situação Problema elabore uma solução computacional, serial e paralela, que 
 [conversao_imagem_paralela.ipynb](https://github.com/ArthurRCastilho/Programacao-Paralela/blob/main/atividades/Convers%C3%A3o%20de%20Imagens/paralela/conversao_img_paralela.ipynb) <br>
 [gerador_imgs_aleato.py](https://github.com/ArthurRCastilho/Programacao-Paralela/blob/main/atividades/Convers%C3%A3o%20de%20Imagens/gerador_imgs_aleato.py) <br>
 
+
+### Modelagem em Paralela
+
+1- Divisão por Blocos de Pixels<br>
+Divida a imagem em blocos retangulares (por exemplo, cada bloco pode ter 50x50 pixels).<br>
+Cada thread/processo será responsável por processar os pixels de um bloco.<br>
+Calcule o valor de tons de cinza para cada pixel no bloco atribuído ao thread/processo.<br>
+Após o processamento, combine os blocos para reconstruir a imagem em preto e branco.<br>
+Vantagem: Simples divisão de trabalho; fácil balanceamento de carga com blocos de tamanhos iguais.<br>
+Desvantagem: Pode gerar overhead de comunicação ao combinar blocos em imagens grandes.<br>
+
 ### Descrição
 Levando em consideração as imagens 500x500(todas)<br>
 
